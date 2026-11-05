@@ -1,17 +1,19 @@
-# Parcial 0192700 - Desarrollo Web
+# BloomBites Cafe - iPhone 16 Plus Interface
 
-Este proyecto corresponde a la entrega del **Parcial 0192700** para la materia de mantenimiento. Consiste en una página web desarrollada con HTML5 y CSS3.
+Proyecto de interfaz web adaptada y optimizada para la resolución de un iPhone 16 Plus (430px x 932px). Reproduce fielmente el diseño de BloomBites Cafe, incluyendo secciones clave como catálogo de productos, sucursales y banners promocionales.
 
-##  Tecnologías Utilizadas
+## Autoría y Créditos
+- **Diseño Original:** Mahsa ([@moonlike_tech](https://x.com/moonlike_tech))
 
-* **HTML5:** Estructura y maquetación del contenido.
-* **CSS3:** Estilos visuales, diseño y presentación.
-* **Git & GitHub:** Control de versiones y alojamiento del repositorio.
-
-##  Estructura del Proyecto
+## Estructura del Proyecto
 
 ```text
-parcial-0192700/
- index.html     # Estructura principal de la página web
- styles.css     # Hoja de estilos CSS
- README.md      # Documentación del proyecto
+.
+├── index.html
+├── styles.css
+└── images/
+    ├── blossomcafe 1.png
+    ├── Flor de cerezo decorativa.png
+    ├── Matcha Raspberry Blossom Macarons.png
+    ├── Matcha swirl background.png
+    └── more matcha storefront.png
